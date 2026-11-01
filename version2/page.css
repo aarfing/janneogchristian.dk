@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'TangerineRegular';
+    src: url('font/Tangerine_Regular-webfont.eot');
+    src: url('font/Tangerine_Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Tangerine_Regular-webfont.woff') format('woff'),
+         url('font/Tangerine_Regular-webfont.ttf') format('truetype'),
+         url('font/Tangerine_Regular-webfont.svg#TangerineRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'TangerineBold';
+    src: url('font/Tangerine_Bold-webfont.eot');
+    src: url('font/Tangerine_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Tangerine_Bold-webfont.woff') format('woff'),
+         url('font/Tangerine_Bold-webfont.ttf') format('truetype'),
+         url('font/Tangerine_Bold-webfont.svg#TangerineBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*
+html{background:#fff url(/img/bg.jpg) repeat-x 0 0}
+body{background-color:#eee;background:rgba(200, 200, 200, 0.5) url(/img/tehus2.jpg) no-repeat 50% 90px;width:500px;margin:30px auto;min-height:600px;padding:10px 30px;border:1px solid #bbb;border-radius:5px;box-shadow:0 5px 5px #ccc}
+h1{margin:0;color:#999;font:normal 90px/normal TangerineRegular,'times new roman',serif;text-align:Center}
+*/
+html{background:#fff url(img/bg.jpg) repeat-x 0 0}
+body{width:990px;margin:50px auto;padding:20px 0;background-color:#fff;background:rgba(255, 255, 255, 0.5);-moz-border-radius:4px;border-radius:4px}
+header{display:block}
+h1{margin:0;padding:10px 0;color:#555;font:normal 150px/normal TangerineRegular,'times new roman',serif;text-align:center;text-shadow:2px 2px 5px #666}
+figure{display:block;width:950px;margin:0 auto;padding:5px;position:relative;height:272px;background:#fff;-moz-border-radius:4px;border-radius:4px}
+figure img{display:block;-moz-border-radius:3px;border-radius:3px}
+figcaption{position:absolute;width:350px;top:70px;right:40px;display:block;color:#555;font:normal 50px/normal TangerineRegular,'times new roman',serif;text-align:center;text-shadow:2px 2px 5px #666}

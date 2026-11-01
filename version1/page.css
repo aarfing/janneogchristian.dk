@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'TangerineRegular';
+    src: url('font/Tangerine_Regular-webfont.eot');
+    src: url('font/Tangerine_Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Tangerine_Regular-webfont.woff') format('woff'),
+         url('font/Tangerine_Regular-webfont.ttf') format('truetype'),
+         url('font/Tangerine_Regular-webfont.svg#TangerineRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'TangerineBold';
+    src: url('font/Tangerine_Bold-webfont.eot');
+    src: url('font/Tangerine_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Tangerine_Bold-webfont.woff') format('woff'),
+         url('font/Tangerine_Bold-webfont.ttf') format('truetype'),
+         url('font/Tangerine_Bold-webfont.svg#TangerineBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+html{background:#fff url(img/bg.jpg) repeat-x 0 0}
+body{background-color:#eee;background:rgba(200, 200, 200, 0.5) url(img/tehus2.jpg) no-repeat 50% 90px;width:500px;margin:30px auto;min-height:600px;padding:10px 30px;border:1px solid #bbb;border-radius:5px;box-shadow:0 5px 5px #ccc}
+h1{margin:0;color:#999;font:normal 90px/normal TangerineRegular,'times new roman',serif;text-align:Center}

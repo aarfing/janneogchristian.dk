@@ -1,0 +1,10 @@
+@font-face{font-family: 'ColaborateThinRegular';src: url('font/ColabThi-webfont.eot');src: url('font/ColabThi-webfont.eot?#iefix') format('embedded-opentype'),url('font/ColabThi-webfont.woff') format('woff'),url('font/ColabThi-webfont.ttf') format('truetype'),url('font/ColabThi-webfont.svg#ColaborateThinRegular') format('svg');font-weight:normal;font-style:normal}
+[role=navigation]{display:none}
+body{margin:0;padding:20px;font:normal 16px/24px helvetica,arial,verdana,sans-serif;color:#444}
+[role=banner]{display:block;text-align:right;border-bottom:1px solid #000}
+header h1 a{font-size:20px}
+div[role=main]{padding:30px 0}
+html body div[role=main] article{display:block!important}
+h1{margin:0;padding:0 0 15px;font:normal 40px/normal ColaborateThinRegular,arial,verdana,sans-serif;text-transform:uppercase}
+p{margin:0;padding:0 0 15px}
+a{text-decoration:none;color:#444}
